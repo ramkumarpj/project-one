@@ -1,0 +1,5 @@
+#FRED API Key
+fred_api_key = "INSERT API KEY HERE"
+
+# ZILLOW API Key
+zillow_api_key = "INSERT API KEY HERE"
