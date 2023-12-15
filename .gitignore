@@ -1,3 +1,6 @@
+# Ignore api keys
+config/api_keys.py
+
 # Ignore data file
 resources/ZILLOW_DATA.csv
 
