@@ -1,6 +1,9 @@
 # Project-one
 
-"Project proposal questions"
+## Questions to be answered: 
+Which zip code gives the best sale ROI? (581 in OK) 
+What is the impact of intrest range changes on home sales?
+Which zip is best to own rental property in? (Best ROI)
 
 #### Obtain zillow records from API/ FRED 
 
