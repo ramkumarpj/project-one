@@ -33,3 +33,5 @@ https://data.nasdaq.com/databases/ZILLOW
 https://data.nasdaq.com/tables/ZILLOW/ZILLOW-DATA/export
 
 https://fred.stlouisfed.org/
+
+Zillow_Indicators.csv, Zillow Regions.csv
