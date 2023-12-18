@@ -8,7 +8,7 @@ What is the impact of intrest range changes on home sales?
 
 Which zip is best to own rental property in? (Best ROI)
 
-#### Obtained zillow records from API/ FRED 
+#### Obtained data sets from Zillow and FRED
 
 ### Created data frame and chart identifying "average price per zip code in the last 10 years (2013-2022)"
 
