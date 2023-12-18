@@ -1,39 +1,47 @@
 # # Abnormal Distribution
 
-In this project we are attempting to answer critical questions regarding the best return on investment of Oklahoma residential real estate.
+In this project we are attempting to answer critical questions regarding the best return on investment(ROI) of Oklahoma residential real estate.
 
 ## Questions to be answered: 
 
-Which zip code gives the best sale ROI? (581 in OK) 
+* Which zip code gives the best home value ROI?
 
-What is the impact of intrest range changes on home sales?
+* What is the impact of intrest rate on median sales price?
 
-Which zip is best to own rental property in? (Best ROI)
+* Which zipcope is the best to own rental property? 
 
-#### Obtained data sets from Zillow and FRED
+## Data sets 
 
-### Created data frame and chart identifying "average price per zip code in the last 10 years (2013-2022)"
+* [Zillow](https://data.nasdaq.com/databases/ZILLOW) : Home Value, Median Sales and Rental data.
+  
+* [FRED API](https://fred.stlouisfed.org/) : 30 Year Mortgage rates and 10 Year Treasury Yield.
 
-### Created data frame and chart of "Max home value returns per year"
+## Analysis
+* Best Home Value ROI : Monthly Home value for years 2013 thru 2022 was obtained from Zillow. The difference in home value as a percentage for each year was aggregated for each zip. The zip that produced top returns were plotted to a scatter plot.
 
-### Created data frame and chart showing "30 year mortgage rates/avg sales price"
+* Impact of interest rate on Median Sales Price: 30 Year Mortage rates for 2013 thru 2022 was obtained using FRED API. The weekly mortgage rates date was aggregated to monthly buckets so that it can be compared against the monthly median sales price data obtained from Zillow. A line plot of both 30 year mortgage rates and median sales price changes were plotted in a single plot to identify the impact.
 
-## In the "Main Branch" of Git Hub the following can be found:
-
+* Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 was obtained from Zillow. The rental ROI for each zipcode for the analysis period were calculated based on this data.
+  
 ### Documents
 
 Project Proposal 
 
 ### Code
 
-Jupyter Notebook: HomeRental_ROI_Analysis.ipynb, HomeSales_IntrestRate_Analysis.ipynb, Homesales_ROI_Analysis.ipynb
+Jupyter Notebooks: 
+* code/HomeRental_ROI_Analysis.ipynb 
+* code/HomeSales_IntrestRate_Analysis.ipynb 
+* code/Homesales_ROI_Analysis.ipynb
 
 ### Resources
 
-https://data.nasdaq.com/databases/ZILLOW
+* Zillow Data - https://data.nasdaq.com/databases/ZILLOW \
+  resource\Zillow_Data.csv(<ins>to be downloaded since the dataset is around 5GB</ins>),\
+  resources\Zillow_Indicators.csv,\
+  resources\Zillow Regions.csv
 
-https://data.nasdaq.com/tables/ZILLOW/ZILLOW-DATA/export
+* FRED API - https://fred.stlouisfed.org/
 
-https://fred.stlouisfed.org/
 
-Zillow_Indicators.csv, Zillow Regions.csv
+
