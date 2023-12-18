@@ -19,9 +19,11 @@ Which zip is best to own rental property in? (Best ROI)
 ## In the "Main Branch" of Git Hub the following can be found:
 
 Project Proposal document
+
 Jupyter Notebook codes: HomeRental_ROI_Analysis.ipynb, HomeSales_IntrestRate_Analysis.ipynb, Homesales_ROI_Analysis.ipynb
 
 ## Resources
 
 https://data.nasdaq.com/databases/ZILLOW
+
 https://data.nasdaq.com/tables/ZILLOW/ZILLOW-DATA/export
