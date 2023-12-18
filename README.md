@@ -1,5 +1,7 @@
 # Project-one
 
+In this project we are attempting to answer critical questions regarding the best return on investment of Oklahoma residential real estate.
+
 ## Questions to be answered: 
 
 Which zip code gives the best sale ROI? (581 in OK) 
