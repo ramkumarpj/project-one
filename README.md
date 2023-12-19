@@ -2,7 +2,7 @@
 
 In this project we are attempting to answer critical questions regarding the best return on investment(ROI) of Oklahoma residential real estate.
 
-## Questions to be answered: 
+## Questions
 
 * Which zip code gives the best home value ROI?
 
@@ -21,7 +21,15 @@ In this project we are attempting to answer critical questions regarding the bes
 
 * Impact of interest rate on Median Sales Price: 30 Year Mortage rates for 2013 thru 2022 was obtained using FRED API. The weekly mortgage rates date was aggregated to monthly buckets so that it can be compared against the monthly median sales price data obtained from Zillow. A line plot of both 30 year mortgage rates and median sales price changes were plotted in a single plot to identify the impact.
 
-* Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 was obtained from Zillow. The rental ROI for each zipcode for the analysis period were calculated based on this data.
+* Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 were obtained from Zillow. The rental ROI for each zipcode for the analysis period was calculated based on this data.
+
+## Conclusions
+
+* 74534 Centrahoma (Southern Oklahoma) had the best home value ROI.
+
+* Generally interest rates and median sales price are inversely correlated.
+
+* 73016 Oklahoma City had the best rental ROI.
   
 ### Documents
 
