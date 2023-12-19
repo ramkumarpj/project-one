@@ -23,7 +23,7 @@ In this project we are attempting to answer critical questions regarding the bes
 
 * Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 were obtained from Zillow. The rental ROI for each zipcode for the analysis period was calculated based on this data.
 
-## Conclusions
+## Findings
 
 * 74534 Centrahoma (Southern Oklahoma) had the best home value ROI.
 
