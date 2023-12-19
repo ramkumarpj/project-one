@@ -6,11 +6,11 @@ In this project we are attempting to answer critical questions regarding the bes
 
 ## Questions
 
-* Which zip code gives the best home value ROI?
+* Which ZIP code gives the best home value ROI?
 
 * What is the impact of intrest rate on median sales price?
 
-* Which zipcode is the best to own rental property? 
+* Which ZIP code is the best to own rental property? 
 
 ## Data sets 
 
