@@ -1,4 +1,4 @@
-# # Abnormal Distribution
+## Abnormal Distribution
 
 In this project we are attempting to answer critical questions regarding the best return on investment(ROI) of Oklahoma residential real estate.
 
