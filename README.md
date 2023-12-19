@@ -51,5 +51,26 @@ Jupyter Notebooks:
 
 * FRED API - https://fred.stlouisfed.org/
 
+## Output
+
+* Best Home Value ROI
+  * output/average_home_value_change_by_year.png
+  * output/most_profitable_yoy_zips.png
+
+* Impact of interest rate on Median Sales Price: 
+  * output/interest_rate_change_median_sales_price.png
+  * output/change_in_median_sales_price_major_cities.png
+  * output/least_profitable_metros_yoy.png
+  * output/most_profitable_metros_yoy.png
+
+* Zipcode that provides best Rental ROI
+  * output/10-year-treasury-market-yield.png
+  * output/homerental_roi_highest_rental_roi.png
+  * output/homerental_roi_highest_rental_roi-1.png
+  * output/homerental_roi_lowest_rental_roi.png
+  * output/homerental_roi_lowest_rental_roi-1.png
+  
+  
+
 
 
