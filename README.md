@@ -21,15 +21,15 @@ In this project we are attempting to answer critical questions regarding the bes
 ## Analysis
 * Best Home Value ROI : Monthly Home value for years 2013 thru 2022 was obtained from Zillow. The difference in home value as a percentage for each year was aggregated for each zip. The zip that produced top returns were plotted to a scatter plot.
 
-* Impact of interest rate on Median Sales Price: 30 Year Mortage rates for 2013 thru 2022 was obtained using FRED API. The weekly mortgage rates date was aggregated to monthly buckets so that it can be compared against the monthly median sales price data obtained from Zillow. A line plot of both 30 year mortgage rates and median sales price changes were plotted in a single plot to identify the impact.
+* Impact of interest rate on Median Sales Price: 30 Year Mortage rates for 2013 thru 2022 was obtained using FRED API. The weekly mortgage rates data was aggregated to monthly buckets so that it can be compared against the monthly median sales price data obtained from Zillow. A line plot of both 30 year mortgage rates and median sales price changes were plotted in a single plot to identify the impact. The pearson correlation coeffcient was also calculated to confirm our observation. 
 
-* Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 were obtained from Zillow. The rental ROI for each zipcode for the analysis period was calculated based on this data.
+* Zipcode that provides best Rental ROI: 10 year Treasury rates was obtained from FRED API. The home value and monthly rental data for 2014 thru 2021 were obtained from Zillow. The rental ROI for each zipcode was calculated based on this data.
 
 ## Findings
 
 * 74534 Centrahoma (Southern Oklahoma) had the best home value ROI.
 
-* Generally interest rates and median sales price are inversely correlated. The pearson correlation coefficient is -0.51.
+* Generally interest rates and median sales price are inversely correlated. The pearson correlation coefficient of -0.51 confirms this observation.
 
 * 73016 Oklahoma City had the best rental ROI.
   
