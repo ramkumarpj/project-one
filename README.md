@@ -10,7 +10,7 @@ In this project we are attempting to answer critical questions regarding the bes
 
 * What is the impact of intrest rate on median sales price?
 
-* Which zipcope is the best to own rental property? 
+* Which zipcode is the best to own rental property? 
 
 ## Data sets 
 
