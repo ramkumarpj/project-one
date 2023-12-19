@@ -29,7 +29,7 @@ In this project we are attempting to answer critical questions regarding the bes
 
 * 74534 Centrahoma (Southern Oklahoma) had the best home value ROI.
 
-* Generally interest rates and median sales price are inversely correlated.
+* Generally interest rates and median sales price are inversely correlated. The pearson correlation coefficient is -0.51.
 
 * 73016 Oklahoma City had the best rental ROI.
   
