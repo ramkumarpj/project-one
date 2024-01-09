@@ -56,7 +56,7 @@ Jupyter Notebooks:
 ## Output
 
 * Best Home Value ROI
-  * output/average_home_value_change_by_year.png
+  * ![image info](./output/average_home_value_change_by_year.png)
   * output/most_profitable_yoy_zips.png
 
 * Impact of interest rate on Median Sales Price: 
