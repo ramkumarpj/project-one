@@ -72,7 +72,7 @@ Jupyter Notebooks:
   * ![image info](./output/homerental_roi_lowest_rental_roi.png)
   * ![image info](./output/homerental_roi_lowest_rental_roi-1.png)
   
-  
-
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023-2024 edX Boot Camps LLC. All rights reserved.
 
 
